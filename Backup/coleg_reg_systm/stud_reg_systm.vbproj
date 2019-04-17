@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{14A46E49-E721-4AE5-9039-1CEF6D8FB158}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>stud_reg_systm</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ManifestCertificateThumbprint>C2D02DCBE814D6BB0F6596E38C06EA236810105B</ManifestCertificateThumbprint>
+    <ManifestKeyFile>stud_reg_systm_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>stud_reg_systm.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>stud_reg_systm.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="change_ur_ps.Designer.vb">
+      <DependentUpon>change_ur_ps.vb</DependentUpon>
+    </Compile>
+    <Compile Include="change_ur_ps.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="coleg_main_form.Designer.vb">
+      <DependentUpon>coleg_main_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="coleg_main_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_stud_admission_form.Designer.vb">
+      <DependentUpon>add_stud_admission_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_stud_admission_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fee_details_form.Designer.vb">
+      <DependentUpon>fee_details_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fee_details_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="del_stud_form.Designer.vb">
+      <DependentUpon>del_stud_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="del_stud_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_stud_activity.Designer.vb">
+      <DependentUpon>add_stud_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_stud_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_activity.Designer.vb">
+      <DependentUpon>edit_stud_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_fee.Designer.vb">
+      <DependentUpon>edit_stud_fee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_fee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_bca_2nd_yr.Designer.vb">
+      <DependentUpon>add_bca_2nd_yr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_bca_2nd_yr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_bca_3rd_yr.Designer.vb">
+      <DependentUpon>add_bca_3rd_yr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_bca_3rd_yr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_2nd_yr_fee_detail.Designer.vb">
+      <DependentUpon>add_2nd_yr_fee_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_2nd_yr_fee_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_3rd_yr_fee_detail.Designer.vb">
+      <DependentUpon>add_3rd_yr_fee_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_3rd_yr_fee_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_2nd_yr_detail.Designer.vb">
+      <DependentUpon>edit_stud_2nd_yr_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_2nd_yr_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_3rd_yr_detail.Designer.vb">
+      <DependentUpon>edit_stud_3rd_yr_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_3rd_yr_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_2nd_yr_activity.Designer.vb">
+      <DependentUpon>add_2nd_yr_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_2nd_yr_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_3rd_yr_activity.Designer.vb">
+      <DependentUpon>add_3rd_yr_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_3rd_yr_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_2nd_yr_activity.Designer.vb">
+      <DependentUpon>edit_stud_2nd_yr_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_2nd_yr_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_3rd_yr_activity.Designer.vb">
+      <DependentUpon>edit_stud_3rd_yr_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_3rd_yr_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_2nd_yr_fee.Designer.vb">
+      <DependentUpon>edit_stud_2nd_yr_fee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_2nd_yr_fee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_3rd_yr_fee.Designer.vb">
+      <DependentUpon>edit_stud_3rd_yr_fee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_3rd_yr_fee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_3rd_yr_fee.Designer.vb">
+      <DependentUpon>view_stud_3rd_yr_fee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_3rd_yr_fee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_2nd_yr_fee.Designer.vb">
+      <DependentUpon>view_stud_2nd_yr_fee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_2nd_yr_fee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_3rd_yr_activity.Designer.vb">
+      <DependentUpon>view_stud_3rd_yr_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_3rd_yr_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_2nd_yr_activity.Designer.vb">
+      <DependentUpon>view_stud_2nd_yr_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_2nd_yr_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_3rd_yr.Designer.vb">
+      <DependentUpon>view_stud_3rd_yr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_3rd_yr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_2nd_yr.Designer.vb">
+      <DependentUpon>view_stud_2nd_yr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_2nd_yr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_fee.Designer.vb">
+      <DependentUpon>view_stud_fee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_fee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_activity.Designer.vb">
+      <DependentUpon>view_stud_activity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_activity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_stud_detail.Designer.vb">
+      <DependentUpon>view_stud_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="view_stud_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edit_stud_details_form.Designer.vb">
+      <DependentUpon>edit_stud_details_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edit_stud_details_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_stud_library_form.Designer.vb">
+      <DependentUpon>add_stud_library_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="add_stud_library_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_form.Designer.vb">
+      <DependentUpon>login_form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splashscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splashscreen.Designer.vb">
+      <DependentUpon>splashscreen.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="add_2nd_yr_activity.resx">
+      <DependentUpon>add_2nd_yr_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_2nd_yr_fee_detail.resx">
+      <DependentUpon>add_2nd_yr_fee_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_3rd_yr_activity.resx">
+      <DependentUpon>add_3rd_yr_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_3rd_yr_fee_detail.resx">
+      <DependentUpon>add_3rd_yr_fee_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_bca_2nd_yr.resx">
+      <DependentUpon>add_bca_2nd_yr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_bca_3rd_yr.resx">
+      <DependentUpon>add_bca_3rd_yr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="change_ur_ps.resx">
+      <DependentUpon>change_ur_ps.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="coleg_main_form.resx">
+      <DependentUpon>coleg_main_form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_stud_admission_form.resx">
+      <DependentUpon>add_stud_admission_form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_2nd_yr_activity.resx">
+      <DependentUpon>edit_stud_2nd_yr_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_2nd_yr_detail.resx">
+      <DependentUpon>edit_stud_2nd_yr_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_2nd_yr_fee.resx">
+      <DependentUpon>edit_stud_2nd_yr_fee.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_3rd_yr_activity.resx">
+      <DependentUpon>edit_stud_3rd_yr_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_3rd_yr_detail.resx">
+      <DependentUpon>edit_stud_3rd_yr_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_3rd_yr_fee.resx">
+      <DependentUpon>edit_stud_3rd_yr_fee.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_fee.resx">
+      <DependentUpon>edit_stud_fee.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fee_details_form.resx">
+      <DependentUpon>fee_details_form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="del_stud_form.resx">
+      <DependentUpon>del_stud_form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_stud_activity.resx">
+      <DependentUpon>add_stud_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_activity.resx">
+      <DependentUpon>edit_stud_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_2nd_yr_activity.resx">
+      <DependentUpon>view_stud_2nd_yr_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_2nd_yr.resx">
+      <DependentUpon>view_stud_2nd_yr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_2nd_yr_fee.resx">
+      <DependentUpon>view_stud_2nd_yr_fee.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_3rd_yr.resx">
+      <DependentUpon>view_stud_3rd_yr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_3rd_yr_activity.resx">
+      <DependentUpon>view_stud_3rd_yr_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_3rd_yr_fee.resx">
+      <DependentUpon>view_stud_3rd_yr_fee.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_activity.resx">
+      <DependentUpon>view_stud_activity.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_stud_library_form.resx">
+      <DependentUpon>add_stud_library_form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_stud_details_form.resx">
+      <DependentUpon>edit_stud_details_form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_form.resx">
+      <DependentUpon>login_form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splashscreen.resx">
+      <DependentUpon>splashscreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_detail.resx">
+      <DependentUpon>view_stud_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_stud_fee.resx">
+      <DependentUpon>view_stud_fee.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hello.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Access_Application.ico" />
+    <Content Include="Resources\00008.jpg" />
+    <Content Include="Resources\00031.jpg" />
+    <Content Include="Resources\00073.jpg" />
+    <Content Include="Resources\1159.jpg" />
+    <Content Include="Resources\dfgf.jpg" />
+    <Content Include="Resources\Hydrangeas.jpg" />
+    <Content Include="Resources\Koala.jpg" />
+    <Content Include="Resources\kyuikyu.jpg" />
+    <Content Include="Resources\Lighthouse.jpg" />
+    <Content Include="Resources\Penguins.jpg" />
+    <Content Include="Resources\splash_pic.JPG" />
+    <Content Include="Resources\Tulips.jpg" />
+    <Content Include="Resources\___irii__ %281%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

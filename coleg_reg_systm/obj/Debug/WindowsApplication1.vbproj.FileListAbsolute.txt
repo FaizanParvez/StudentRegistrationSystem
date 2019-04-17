@@ -1,0 +1,11 @@
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.splashscreen.resources
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\AMIRRESHI\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.login_form.resources

@@ -1,0 +1,89 @@
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.exe.manifest
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.application
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.exe
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.pdb
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.xml
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.change_ur_ps.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.coleg_main_form.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_admission_form.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_fee.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.fee_details_form.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.del_stud_form.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_library_form.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_details_form.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.login_form.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.splashscreen.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_detail.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_fee.resources
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.vbproj.GenerateResource.Cache
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.exe.manifest
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.application
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.exe
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.xml
+C:\Users\AMIRRESHI\Desktop\backup7.49am\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.pdb
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\bin\Release\Data\Coleg_RS.mdf
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\bin\Release\Data\Coleg_RS_log.ldf
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.exe.manifest
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.application
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.exe
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.pdb
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.xml
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.change_ur_ps.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.coleg_main_form.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_admission_form.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_fee.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.fee_details_form.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.del_stud_form.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_library_form.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_details_form.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.login_form.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.splashscreen.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_detail.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_fee.resources
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.vbproj.GenerateResource.Cache
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.exe.manifest
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.application
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.exe
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.xml
+C:\Users\AMIRRESHI\Desktop\submit final\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.pdb
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\bin\Release\Data\Coleg_RS.mdf
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\bin\Release\Data\Coleg_RS_log.ldf
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.exe.manifest
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.application
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.exe
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.pdb
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.xml
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.change_ur_ps.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.coleg_main_form.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_admission_form.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_fee.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.fee_details_form.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.del_stud_form.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_activity.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.add_stud_library_form.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.edit_stud_details_form.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.login_form.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.splashscreen.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_detail.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\WindowsApplication1.view_stud_fee.resources
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.vbproj.GenerateResource.Cache
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.exe.manifest
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.application
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.exe
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.xml
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\obj\Release\stud_reg_systm.pdb
+C:\Users\AMIRRESHI\Desktop\proj ready\stud_reg_systm\coleg_reg_systm\bin\Release\stud_reg_systm.exe.config
